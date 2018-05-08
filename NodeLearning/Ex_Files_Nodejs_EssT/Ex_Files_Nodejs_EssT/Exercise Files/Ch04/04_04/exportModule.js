@@ -1,18 +1,17 @@
 var Person = require("./lib/Person");
 
-var ben = new Person("Ben Franklin");
-var george = new Person("George Washington");
+var ben = new Person("Jawahar Dath");
+var george = new Person("Manasa Katta");
 
 
 george.on('speak', function(said) {
 
-	console.log(`${this.name} -> ${said}`);
+	console.log(this.name +'->'+said);
 
 });
 
 ben.on('speak', function(said) {
-
-	console.log(`${this.name}: ${said}`);
+	console.log(this.name +':'+said);
 
 });
 
