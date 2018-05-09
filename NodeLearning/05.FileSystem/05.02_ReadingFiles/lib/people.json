@@ -1,6 +1,7 @@
 [
   {
-    "name": "Jawahar Dath",
+    "fileName": "people.json",
+	"name": "Jawahar Dath",
     "delay": 1500,
     "sayings": [
       "You may delay, but time will not.",
@@ -13,7 +14,8 @@
     ]
   },
   {
-    "name": "Manasa Katta",
+    "fileName":"people.json",
+	"name": "Manasa Katta",
     "delay": 2500,
     "sayings": [
       "It is far better to be alone, than to be in bad company.",

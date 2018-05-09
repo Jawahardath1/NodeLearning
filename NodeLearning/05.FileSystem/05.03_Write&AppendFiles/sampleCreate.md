@@ -1,9 +1,8 @@
 Sample Markdown Title
 =====================
 
-Sample subtitle
-----------------
-
+Sample Subtitle
+---------------
 * point
 * point
 * point
