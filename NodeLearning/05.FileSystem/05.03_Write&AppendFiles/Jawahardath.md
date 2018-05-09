@@ -1,6 +1,8 @@
 NaN
 ==================
 
-*Manasa is my wife
-*Manasa is a gift from God
-*exit
+* test1
+* test2
+* test3
+* test4
+* exit
