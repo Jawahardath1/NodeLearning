@@ -13,7 +13,7 @@ var fs = require("fs");
 //console.log("Reading Files...");
 
 
-fs.readdir('./Ch05/05_01/lib', function(err, filese) {
+fs.readdir('./lib', function(err, filese) {
 	if(err) {
 		throw err;
 	}

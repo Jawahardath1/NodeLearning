@@ -1,4 +1,4 @@
-Ben Franklin
+Jawahar Dath
 ===============
 
 * You may delay, but time will not.
@@ -9,7 +9,7 @@ Ben Franklin
 * An investment in knowledge pays the best interest.
 * Well done is better than well said.
 
-George Washington
+Manasa katta
 =================
 
 * It is far better to be alone, than to be in bad company.
