@@ -13,7 +13,7 @@ fs.readdir('./lib', function(err, files) {
 		if(stats.isFile() && fileName !=='.DS_Store') {
 			fs.readFile(file,'UTF-8', function(err, contents) {
 				console.log(contents);				
-			})
+			});
 		}
 	});
 	
