@@ -9,7 +9,7 @@
   "keywords": [
     "Websocket"
   ],
-  "author": "Alex Banks <alex@moonhighway.com> (http://www.moonhighway.com)",
+  "author": "Jawahar Dath",
   "license": "MIT",
   "dependencies": {
     "ws": "^0.8.0"
