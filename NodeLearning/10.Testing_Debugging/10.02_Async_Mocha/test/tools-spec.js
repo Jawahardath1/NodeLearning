@@ -5,8 +5,8 @@ describe("Tools", function() {
 
 	describe("printName()", function() {
 		it("should print the last name first", function() {
-			var results = tools.printName({ first: "Alex", last: "Banks"});
-			expect(results).to.equal("Banks, Alex");
+			var results = tools.printName({ first: "Jawahardath", last: "T"});
+			expect(results).to.equal("T, Jawahardath");
 		});
 	});
 
