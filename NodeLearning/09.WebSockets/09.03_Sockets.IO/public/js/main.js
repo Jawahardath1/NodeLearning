@@ -1,4 +1,3 @@
-
 var socket = io("http://localhost:3000");
 
 socket.on("disconnect", function() {
@@ -6,7 +5,7 @@ socket.on("disconnect", function() {
 });
 
 socket.on("connect", function() {
-	setTitle("Connected to Cyber Chat");
+	setTitle("Connected to Security Cyber Chat");
 });
 
 socket.on("message", function(message) {
