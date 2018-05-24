@@ -1,7 +1,7 @@
 module.exports = {
 
 	printName(person) {
-		return `${person.last}, ${person.first}`;
+		return person.last+","+person.first ;
 	}
 
 };
